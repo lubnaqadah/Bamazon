@@ -10,8 +10,8 @@ An interactive shopping node app where MySQL and Node.JS are used to allow users
 The Bamazon Customer Portal allows users to view the current items available for purchase.  The user will be prompted to enter the item id# and how many items they wish to purchase.  If the item is in stock, the order will be completed and the user will see the total amount of their purchase.
 If there was no enough quantity the order will not go through.
 
-![Customer Portal](assets/customer1.png)
-![Customer Portal](assets/customer2.png)
+![Customer Portal](assets/customer1.PNG)
+![Customer Portal](assets/customer2.PNG)
 
 
 ##### Bamazon Manager Portal
